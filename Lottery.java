@@ -25,6 +25,7 @@ public class Lottery {
         //for 10$
         if (ptick == 10) {
             System.out.println("20% Winning Chance");
+            System.out.println("TRY YOUR LUCK");
             System.out.println("Great Enter any 2 Luck numbers");
             Scanner P1 = new Scanner(System.in);
             int P1L = P1.nextInt();
@@ -62,6 +63,7 @@ public class Lottery {
             }
         } else if (ptick == 50) {
             System.out.println("40% Winning Chance");
+            System.out.println("TRY YOUR LUCK");
             System.out.println("Great Enter any 3 Luck numbers");
             Scanner P2 = new Scanner(System.in);
             int P2L = P2.nextInt();
@@ -99,6 +101,7 @@ public class Lottery {
             }
         } else if (ptick == 100) {
             System.out.println("70% Winning Chance");
+            System.out.println("TRY YOUR LUCK");
             System.out.println("Great Enter any 4 Luck numbers");
             Scanner P3 = new Scanner(System.in);
             int P3L = P3.nextInt();
