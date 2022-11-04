@@ -139,6 +139,7 @@ public class Lottery {
             System.out.println(" WTF are you Stupid");
             System.out.println("Please Enter Correct Ticket amount, you can buy only one ticket.");
             System.out.println("Please rerun the code to participate again");
+            System.out.println("Thanks for Playing");
         }
     }
 }
