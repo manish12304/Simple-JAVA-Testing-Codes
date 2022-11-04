@@ -13,6 +13,7 @@ public class Lottery {
         System.out.println("Following tickets available Buy any one");
         System.out.println("Enter Ticket Price");
         System.out.println("Connecting to GITHUB");
+        System.out.println("Connecting to GITHUB");
 
 
         //Get user ticket
