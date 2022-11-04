@@ -6,7 +6,7 @@ public class Lottery {
     public static void main(String[] args) {
 
         //Lottery intro
-        System.out.println("Simple JAVA Programming");
+
         System.out.println("Created by Manish Chauhan");
         System.out.println("Welcome to JAVA Lottery");
         System.out.println("$10 = 20% chance, $50 = 50% chance, $100 = 70% chance");
